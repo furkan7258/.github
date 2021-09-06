@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @salihfurqan
 - 👀 I’m interested in NLP.
-- 📫 salihfurqan@gmail.com twitter.com/salihfurqan
+- 📫 salihfurqan@gmail.com
