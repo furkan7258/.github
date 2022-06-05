@@ -1,2 +1,2 @@
 **Interests**: Natural Language Processing, Computational Complexity  
-**Contact**: [salihfurqan@gmail.com](mailto:salihfurqan@gmail.com)  
+**Contact**: [furkan.akkurt@boun.edu.tr](mailto:furkan.akkurt@boun.edu.tr)  
