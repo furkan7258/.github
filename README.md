@@ -4,7 +4,7 @@ I am currently pursuing my MSc degree in computer engineering at [Boğaziçi Uni
 
 ## Interests
 
-I am very much interested in _natural language processing_, _computational complexity_ and _linguistics_.  
+I am interested in _computational linguistics_, _linguistic variation_ and _phonology_.  
 
 ## Contact
 
