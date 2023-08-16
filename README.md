@@ -8,4 +8,4 @@ I am interested in _computational linguistics_, _linguistic variation_ and _phon
 
 ## Contact
 
-You can contact me at furkan.akkurt [at] boun [dot] edu [dot] tr
+You can contact me at furkanakkurt9285 [at] gmail [dot] com
