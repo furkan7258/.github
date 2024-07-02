@@ -1,3 +1,3 @@
-- Pursuing MSc in computer engineering at [Boğaziçi Uni.](https://bogazici.edu.tr), and a teaching assistant there;
-- Interested in _computational linguistics_, _linguistic variation_ and _phonology_,
+- Pursuing MSc in computer engineering at [Boğaziçi Uni.](https://bogazici.edu.tr), and a [teaching assistant](https://cmpe.bogazici.edu.tr/people/teaching-assistants) there;
+- Interested in computational linguistics, linguistic variation and phonology,
 - Contact at [furkanakkurt9285@gmail.com](mailto:furkanakkurt9285@gmail.com).
