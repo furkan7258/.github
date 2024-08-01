@@ -1,3 +1,3 @@
-- MSc student and [TA](https://cmpe.bogazici.edu.tr/people/teaching-assistants) in [the Department of Computer Engineering](https://cmpe.bogazici.edu.tr/) at [Boğaziçi University](https://bogazici.edu.tr) in Istanbul, Turkey,
-- Interested in computational linguistics, linguistic variation and phonology,
-- Contact at [furkanakkurt9285@gmail.com](mailto:furkanakkurt9285@gmail.com).
+I am an MSc student and a [TA](https://cmpe.bogazici.edu.tr/people/teaching-assistants) in [the Department of Computer Engineering](https://cmpe.bogazici.edu.tr/) at [Boğaziçi University](https://bogazici.edu.tr) in Istanbul, Turkey. I am also a member of [TABILAB](https://tabilab.cmpe.bogazici.edu.tr), where my research focus is on natural language processing, and a part of [the UD Turkic Group](https://github.com/ud-turkic), whose aim is to harmonize the annotations of Turkic [UD](https://universaldependencies.org) treebanks.
+
+My general research interests include computational linguistics, linguistic variation and phonology. I am working on merging my interests in linguistics and computer science in my research. My MSc thesis study is, shortly, about social bias detection in literary texts. In this study, the eventual goal is to output social biases (e.g. gender, racial) present in a given literary text.
